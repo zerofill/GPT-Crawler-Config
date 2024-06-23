@@ -8,4 +8,4 @@ Builder IO seems to have not wanted to bother with the CLI, and I don't want to 
 
 Usage:
 
-npm start <url> <match> <maxPagesToCrawl> <outputFileName> <maxTokens>
+npm start url match maxPagesToCrawl outputFileName maxTokens
